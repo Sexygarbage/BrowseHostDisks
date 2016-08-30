@@ -1,0 +1,60 @@
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll.config
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.pdb
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\WebGrease.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\Antlr3.Runtime.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.pdb
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.pdb
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll.config
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.pdb
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\Newtonsoft.Json.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Net.Http.Formatting.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Helpers.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Http.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Http.WebHost.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Mvc.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Razor.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.WebPages.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Optimization.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\WebGrease.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\Antlr3.Runtime.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.pdb
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\Newtonsoft.Json.xml
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Net.Http.Formatting.xml
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Helpers.xml
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Http.xml
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Http.WebHost.xml
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Mvc.xml
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.Razor.xml
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.WebPages.xml
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.csprojResolveAssemblyReference.cache
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.dll
+J:\downloads\Documents\Visual Studio 2010\Projects\Web Apps\MvcApplication1\MvcApplication1\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.pdb
